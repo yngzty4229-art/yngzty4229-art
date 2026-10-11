@@ -7,6 +7,7 @@ Open data and APIs about the Polish housing market, built on **official register
 - 🧾 [Transaction prices](https://apify.com/kris_fili/poland-real-estate-transaction-prices) – median, quartiles, trend and the list of deeds around any address
 - 🏗️ [New-build prices](https://apify.com/kris_fili/poland-new-build-apartment-prices) – every developer offer around an address (daily price lists, dane.gov.pl)
 - ⚖️ [Asking vs transaction gap](https://apify.com/kris_fili/poland-housing-price-gap) – developers' asking prices compared with real deeds
+- 🤖 [**poland-housing-mcp**](https://github.com/yngzty4229-art/poland-housing-mcp) – MCP server: the same tools inside Claude, ChatGPT or Cursor
 
 The tools work as APIs (Python, JavaScript, HTTP), in the browser without code, and inside AI assistants through MCP.
 
