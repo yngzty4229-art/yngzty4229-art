@@ -1,16 +1,13 @@
-## Hi there 👋
+### Poland housing prices from official data 🇵🇱
 
-<!--
-**yngzty4229-art/yngzty4229-art** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Open data and APIs about the Polish housing market, built on **official registers** instead of listing portals:
 
-Here are some ideas to get you started:
+- 📊 [**poland-housing-prices**](https://github.com/yngzty4229-art/poland-housing-prices) – weekly median apartment prices from notarial deeds (RCN) in Poland's largest cities, CSV + maps
+- 🏠 [Apartment valuation (AVM)](https://apify.com/kris_fili/poland-apartment-valuation) – the value of any apartment from comparable notarial deeds
+- 🧾 [Transaction prices](https://apify.com/kris_fili/poland-real-estate-transaction-prices) – median, quartiles, trend and the list of deeds around any address
+- 🏗️ [New-build prices](https://apify.com/kris_fili/poland-new-build-apartment-prices) – every developer offer around an address (daily price lists, dane.gov.pl)
+- ⚖️ [Asking vs transaction gap](https://apify.com/kris_fili/poland-housing-price-gap) – developers' asking prices compared with real deeds
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+The tools work as APIs (Python, JavaScript, HTTP), in the browser without code, and inside AI assistants through MCP.
+
+**Po polsku:** ceny mieszkań z aktów notarialnych i cenników deweloperów – otwarte dane, API i wycena mieszkań dla dowolnego adresu w Polsce.
